@@ -11,7 +11,9 @@ Currently, two official plugins are available:
 #Folder structure
 
 →db(folder) 
+
    *db.json 
+   
 →node modules(folder) 
 →public(folder) 
    *Songs 
