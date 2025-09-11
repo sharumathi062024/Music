@@ -22,7 +22,7 @@ Currently, two official plugins are available:
    
    *vite 
    
-        →src (folder) 
+ →src (folder) 
         
            *Assets (folder)
            
@@ -69,5 +69,11 @@ Currently, two official plugins are available:
 →package.json 
 
 →package-lock.json 
+ 
+→README.md 
+
+→vite.config.js
+
+
         →README.md 
         →vite.config.js
