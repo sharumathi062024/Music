@@ -70,10 +70,6 @@ Currently, two official plugins are available:
 
 →package-lock.json 
  
-→README.md 
+→README
 
 →vite.config.js
-
-
-        →README.md 
-        →vite.config.js
