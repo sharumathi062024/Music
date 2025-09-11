@@ -15,33 +15,59 @@ Currently, two official plugins are available:
    *db.json 
    
 →node modules(folder) 
+
 →public(folder) 
+
    *Songs 
+   
    *vite 
-        →src (folder)  
+   
+        →src (folder) 
+        
            *Assets (folder)
+           
                 React.svg 
+                
            *Components (folder)
+           
                 Favorites.jsx 
+                
                 Playlist.jsx
-                Search.jsx 
-                Sidebar.css 
-                Sidebar.jsx 
-                Songs.jsx 
-                Uhome.css 
+                
+                Search.jsx
+                
+                Sidebar.css
+                
+                Sidebar.jsx
+                
+                Songs.jsx
+                
+                Uhome.css
+
                 Uhome.jsx 
+                
                 Uitem.jsx 
+                
                 Unavbar.jsx 
-                Wishlist.jsx 
-           *App.css  
+                
+                Wishlist.jsx
+                
+           *App.css
+           
            *App.jsx
-           *Index.css 
+           
+           *Index.css
+
            *main.jsx 
        
 →.eslintrc 
-→.gitignore 
+
+→.gitignore
+
 →index.html 
+
 →package.json 
+
 →package-lock.json 
         →README.md 
         →vite.config.js
