@@ -73,3 +73,14 @@ Currently, two official plugins are available:
 →README
 
 →vite.config.js
+
+
+
+
+#songs.jsx folder contains
+
+1.songs list
+
+     Songs list contains 8 type of songs and it can not be uploaded in the github repository page.Those songs are mp3 downloaded files.
+
+2.vite
